@@ -33,9 +33,12 @@ Clone este repositório para sua máquina local:
 git clone https://github.com/seu-usuario/ecommerce-recommendation-system.git
 cd ecommerce-recommendation-system
 
-### 1.2. Crie e Ative um Ambiente Virtual
+---
+
+**1.2. Crie e Ative um Ambiente Virtual**
 Crie um ambiente virtual para instalar as dependências do projeto:
 No Linux/Mac:
+
 ```bash
 python -m venv venv
 source venv/bin/activate
