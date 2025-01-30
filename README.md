@@ -2,8 +2,6 @@
 
 Este projeto implementa um sistema de recomendação baseado em filtragem colaborativa para um cenário de e-commerce. O sistema sugere produtos (filmes, neste caso) com base no histórico de avaliações e comportamento dos usuários.
 
----
-
 
 ---
 
