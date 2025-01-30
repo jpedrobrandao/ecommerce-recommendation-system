@@ -1,0 +1,12 @@
+# Dependências do projeto
+pandas
+numpy
+scikit-learn
+fastapi
+uvicorn
+matplotlib
+kafka-python
+pymongo
+dash
+plotly
+streamlit
