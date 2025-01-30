@@ -27,18 +27,10 @@ ecommerce-recommendation-system/
 
 #### 1.1. Clone o Repositório
 
-Clone este repositório para sua máquina local:
+#### **d) Destaque Variáveis Personalizadas**
+Se houver partes do comando que o usuário precisa personalizar (como nomes de arquivos ou URLs), destaque-as claramente. Por exemplo:
 
+```markdown
+Clone o repositório substituindo `seu-usuario` pelo seu nome de usuário no GitHub:
 ```bash
 git clone https://github.com/seu-usuario/ecommerce-recommendation-system.git
-cd ecommerce-recommendation-system
-
----
-
-**1.2. Crie e Ative um Ambiente Virtual**
-Crie um ambiente virtual para instalar as dependências do projeto:
-No Linux/Mac:
-
-```bash
-python -m venv venv
-source venv/bin/activate
